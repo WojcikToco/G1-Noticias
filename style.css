@@ -147,7 +147,17 @@ body {
     width: 100%;
 }
 
+.news-image2 img {
+    width: 35%;
+}
+
 .news-image figcaption {
+    font-size: 12px;
+    color: #666;
+    margin-top: 5px;
+}
+
+.news-image2 figcaption {
     font-size: 12px;
     color: #666;
     margin-top: 5px;
