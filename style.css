@@ -149,6 +149,9 @@ body {
 
 .news-image2 img {
     width: 35%;
+    margin: 20px auto;
+    padding: 20px;
+    display: block;
 }
 
 .news-image figcaption {
@@ -161,6 +164,7 @@ body {
     font-size: 12px;
     color: #666;
     margin-top: 5px;
+    display: block;
 }
 
 .news-content p {
